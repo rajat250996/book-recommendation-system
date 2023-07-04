@@ -87,4 +87,3 @@ movie then we will recommend A movie to Y user and D movie to X user.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-Deployed Project to this Webpage: https://book-recommendersystem.herokuapp.com/ 

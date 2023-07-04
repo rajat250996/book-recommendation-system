@@ -19,7 +19,7 @@ amount of income when they are efficient or also be a way to stand out significa
 
 <h2> :floppy_disk: Data </h2>
 
-The Book-Crossing dataset comprises 3 files (Click [here](https://drive.google.com/drive/folders/184irGJPi73xYu_eMgI3JBCc-okIOTUIF?usp=sharing) to access the Data)
+The Book-Crossing dataset comprises 3 files
 
 * Users : 
 Contains the users. Note that user IDs (User-ID) have been anonymized and map to
@@ -68,9 +68,8 @@ movie then we will recommend A movie to Y user and D movie to X user.
 <h2>✉ Contact me for Data Science Project Collaborations </h2>
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shantanuh10/)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shantanuh10)
-[![Resume Badge](https://img.shields.io/badge/resume-0077B5?style=for-the-badge&logo=resume&logoColor=white)](https://drive.google.com/file/d/1py39Zv76lRab9dZAdkSjeYB8A3EkejSW/view?usp=sharing)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajatchaudhary25/)
+
 
 
 <h2> :books: References</h2>
